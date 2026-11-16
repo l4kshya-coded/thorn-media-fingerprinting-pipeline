@@ -1,0 +1,16 @@
+upload_id,timestamp,closest_reference_match,hamming_distance,disposition,action_executed
+UPLOAD_901,2026-11-16T16:58:16.083101+00:00,flagged_hash_ref_2,14,CLEAN_PASSED,Delivered Normally
+UPLOAD_902,2026-11-16T16:58:16.083390+00:00,flagged_hash_ref_4,32,CLEAN_PASSED,Delivered Normally
+UPLOAD_903,2026-11-16T16:58:16.083569+00:00,flagged_hash_ref_3,30,CLEAN_PASSED,Delivered Normally
+UPLOAD_904,2026-11-16T16:58:16.083744+00:00,flagged_hash_ref_4,32,CLEAN_PASSED,Delivered Normally
+UPLOAD_905,2026-11-16T16:58:16.084441+00:00,flagged_hash_ref_5,28,CLEAN_PASSED,Delivered Normally
+UPLOAD_906,2026-11-16T16:58:16.084615+00:00,flagged_hash_ref_1,32,CLEAN_PASSED,Delivered Normally
+UPLOAD_907,2026-11-16T16:58:16.084773+00:00,flagged_hash_ref_4,32,CLEAN_PASSED,Delivered Normally
+UPLOAD_908,2026-11-16T16:58:16.084936+00:00,flagged_hash_ref_3,30,CLEAN_PASSED,Delivered Normally
+UPLOAD_909,2026-11-16T16:58:16.085093+00:00,flagged_hash_ref_5,28,CLEAN_PASSED,Delivered Normally
+UPLOAD_9010,2026-11-16T16:58:16.085268+00:00,flagged_hash_ref_3,30,CLEAN_PASSED,Delivered Normally
+UPLOAD_9011,2026-11-16T16:58:16.085437+00:00,flagged_hash_ref_1,0,CRITICAL_QUARANTINE,Instant Blur & Account Flagged
+UPLOAD_9012,2026-11-16T16:58:16.085600+00:00,flagged_hash_ref_5,28,CLEAN_PASSED,Delivered Normally
+UPLOAD_9013,2026-11-16T16:58:16.085752+00:00,flagged_hash_ref_3,30,CLEAN_PASSED,Delivered Normally
+UPLOAD_9014,2026-11-16T16:58:16.085933+00:00,flagged_hash_ref_2,14,CLEAN_PASSED,Delivered Normally
+UPLOAD_9015,2026-11-16T16:58:16.086096+00:00,flagged_hash_ref_4,32,CLEAN_PASSED,Delivered Normally
